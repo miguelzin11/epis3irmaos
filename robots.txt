@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /obrigado.html
 
-Sitemap: https://miguelzin11.github.io/epis3irmaos/sitemap.xml
+Sitemap: https://epis3irmaos.vercel.app/sitemap.xml
